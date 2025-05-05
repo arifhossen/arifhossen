@@ -12,9 +12,9 @@
 [![Swift](https://img.shields.io/badge/Swift-3776AB?style=for-the-badge&logo=swift&logoColor=white)]()
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-3776AB?style=for-the-badge&logo=swiftui&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![C++](https://img.shields.io/badge/Swift-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![Java](https://img.shields.io/badge/SwiftUI-007396?style=for-the-badge&logo=java&logoColor=white)]()
-![C](https://img.shields.io/badge/Java-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 <!--
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
