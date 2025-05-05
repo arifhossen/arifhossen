@@ -16,25 +16,6 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<!--
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
--->
-#### ✨AI Stack✨
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()
-#### ✨BigData Stack✨
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-black?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 #### ✨Web Frameworks✨
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -52,10 +33,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
-![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 <!--
@@ -72,10 +49,6 @@
 #### ✨Clouds✨
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 <!--
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -93,40 +66,5 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-#### ✨ Curated Repository Listing ✨
-[![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Machine%20Learning)](https://github.com/bhuiyanmobasshir94/Machine-Learning)
-[![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Deep%20Learning)](https://github.com/bhuiyanmobasshir94/Deep-Learning)
-[![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Data%20Science)](https://github.com/bhuiyanmobasshir94/Data-Science)
-[![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Computer%20Vision)](https://github.com/bhuiyanmobasshir94/Computer-Vision)
-[![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Edge%20%2F%20IoT)](https://github.com/bhuiyanmobasshir94/Edge-IoT)
-[![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=NLP%20%2F%20NLU)](https://github.com/bhuiyanmobasshir94/Natural-Language-Processing-And-Understanding)
-[![Static Badge](https://img.shields.io/badge/SE-blue?style=for-the-badge&logo=Github&label=Problem%20Solving)](https://github.com/bhuiyanmobasshir94/Problem-Solving)
-[![Static Badge](https://img.shields.io/badge/SE-blue?style=for-the-badge&logo=Github&label=Interview)](https://github.com/bhuiyanmobasshir94/Interview)
-[![Static Badge](https://img.shields.io/badge/SE-blue?style=for-the-badge&logo=Github&label=Testing)](https://github.com/bhuiyanmobasshir94/Testing)
-[![Static Badge](https://img.shields.io/badge/SE-blue?style=for-the-badge&logo=Github&label=Software%20Engineering%20Best%20Practices)](https://github.com/bhuiyanmobasshir94/Software-Engineering-Best-Practices)
-[![Static Badge](https://img.shields.io/badge/SE-blue?style=for-the-badge&logo=Github&label=Cloud%20DevOps)](https://github.com/bhuiyanmobasshir94/Cloud-DevOps)
-[![Static Badge](https://img.shields.io/badge/Computing-red?style=for-the-badge&logo=Github&label=GIS)](https://github.com/bhuiyanmobasshir94/GIS)
-[![Static Badge](https://img.shields.io/badge/Computing-red?style=for-the-badge&logo=Github&label=Data%20Engineering)](https://github.com/bhuiyanmobasshir94/Data-Engineering)
-[![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=Research)](https://github.com/bhuiyanmobasshir94/Research)
-[![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=Higher%20Study)](https://github.com/bhuiyanmobasshir94/Higher-Study)
-[![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=Books)](https://github.com/bhuiyanmobasshir94/Books)
-[![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=Coursera%20Specializations)](https://github.com/bhuiyanmobasshir94/Coursera-Specializations)
-[![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=NUS%20Artificial%20Intelligence%20Training)](https://github.com/bhuiyanmobasshir94/NUS-Artificial-Intelligence-Training)
+
 <br>
-
-<h1 align="center">📊Statistics</h1>
-<div align="center">
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&theme=dark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bhuiyanmobasshir94&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=bhuiyanmobasshir94&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuiyanmobasshir94&theme=dark" />
-</div>
-
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=bhuiyanmobasshir94&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy" />
- <img src="https://raw.githubusercontent.com/bhuiyanmobasshir94/bhuiyanmobasshir94/output/github-contribution-grid-snake-dark.svg" />
-<p> 
-  VISITOR COUNT<br>
-  <img src="https://profile-counter.glitch.me/bhuiyanmobasshir94/count.svg" />
-</p>
-</div>
